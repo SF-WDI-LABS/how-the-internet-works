@@ -1,24 +1,27 @@
 <!--
 Creator: Ilias Tsangaris
-Market: SF
+Location: SF
+Changelog:
+  31 March 2017 - fix formatting - Brianna Veenstra
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 
-#How the Internet Works
+# How the Internet Works
 
 ## Why is this important?
 *This workshop is relevant to developers because:*
 
-Just how a race-car driver should understand how their car runs, it is imperative for web developers to have clear mental models of the Internet functions when building web applications. Knowledge of Internet fundamentals will allow for new concepts to be understood in a more complete context.
+Just how a race-car driver should understand how their car runs, web developers should have clear mental models of the Internet when building web applications. Knowledge of internet fundamentals will help place new concepts in a more complete context.
 
 ## What are the objectives?
 *After this workshop, developers will be able to:*
 
 * Explain at a high level how the Internet transmits data
 * Distinguish between the Internet and the World Wide Web
-* Understand why HTML CSS and JavaScript work together so well
+* Explain how HTML CSS and JavaScript work together
+* Identify the relationship between servers and clients
 * Articulate what an API is
 
 ## Where should we be now?
@@ -26,7 +29,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
 
 * Use the Internet
 
-##The Internet
+## The Internet
 
 <details>
     <summary>How did the Internet begin?</summary>
@@ -78,7 +81,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-##The Internet Protocol Suite
+## The Internet Protocol Suite
 
 <details>
     <summary>What are the distinct layers of the Internet protocol suite?</summary>
@@ -110,7 +113,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-##The World Wide Web
+## The World Wide Web
 
 <details>
     <summary>How does the World Wide Web compare to the Internet?</summary>
@@ -195,7 +198,7 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-##APIs
+## APIs
 
 <details>
     <summary>What is the definition of an API?</summary>
@@ -237,15 +240,13 @@ Just how a race-car driver should understand how their car runs, it is imperativ
     </figure>
 </details>
 
-##Q & A
 
 ## Closing Thoughts
 
-There's tons of technical acronyms and jargon in the world. Understanding the basic building blocks of Internet & web technologies will help you communicate, grasp new concepts independently, and demystify concepts on your learning journey to become better web developers.
+There's tons of technical acronyms and jargon in the world. Understanding the basic building blocks of internet and web technologies will help you communicate, grasp new concepts independently, and demystify your learning journey to become a better web developer.
 
 ## Further Resources
 
-* [A Packet's Tale Video](https://www.youtube.com/watch?v=Gfoc3Cxgnpk)
 * [HTTP Intro](https://dev.opera.com/articles/http-basic-introduction/)
 * [TCP/IP Protocol Explained](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/)
 * [Internet Protocol Suite Wikipedia Page](https://en.wikipedia.org/wiki/Internet_protocol_suite)
