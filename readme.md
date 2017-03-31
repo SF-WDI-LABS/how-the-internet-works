@@ -126,7 +126,7 @@ Just how a race-car driver should understand how their car runs, web developers 
 </details>
 
 <details>
-    <summary>What protocol does the WWW use to communicate?</summary>
+    <summary>How does the WWW use HTTP to communicate?</summary>
     <figure>
         <h3>HTTP</h3>
         <img src='imgs/http.png' alt='missing' />
